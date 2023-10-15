@@ -8,7 +8,7 @@ html {
   scroll-behavior: initial;
 }
 
-body {
+body, ul, li {
   font-size: 100%;
   font-family: sans-serif;
 }
@@ -256,4 +256,14 @@ audio {
             display: block;
             margin: 0 auto;
         }
+@media screen and (max-width: 768px) {
+    nav ul {
+        text-align: center;
+        display: block;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+}
     </style>
