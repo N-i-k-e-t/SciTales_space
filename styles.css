@@ -167,7 +167,7 @@ audio {
 
 /* Add background image for the "about" section */
 #OpenScience {
-  background-image: url('images/moon2.jpg');
+  background-image: url('images/Bg_moon.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -185,7 +185,7 @@ audio {
 }
 
 #Songs {
-  background-image: url('images/moon2.jpg');
+  background-image: url('images/Bg_moon.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -194,7 +194,7 @@ audio {
   text-align: center; /* Center text vertically and horizontally */
 }
 #Stories {
-  background-image: url('images/moon2.jpg');
+  background-image: url('images/Bg_moon.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -203,7 +203,7 @@ audio {
   text-align: center; /* Center text vertically and horizontally */
 }
 #Interview {
-  background-image: url('images/moon2.jpg');
+  background-image: url('images/Bg_moon.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -212,7 +212,7 @@ audio {
   text-align: center; /* Center text vertically and horizontally */
 }
 #About {
-  background-image: url('images/moon2.jpg');
+  background-image: url('images/Bg_moon.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
