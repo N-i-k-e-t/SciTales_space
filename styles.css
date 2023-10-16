@@ -265,5 +265,18 @@ audio {
     nav ul li {
         margin: 10px 0;
     }
+@media (max-width: 768px) {
+
+  h1 {
+    font-size: 24px;
+  }
+  
+  .container {
+    padding: 10px;
+  }
+
+  /* etc... */
+
+}
 }
     </style>
